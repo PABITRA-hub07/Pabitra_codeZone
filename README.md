@@ -13,6 +13,8 @@ These problems are useful for practice and interview preparation.
 | EvenOddCheck.java            | Program to check how many even or odd numbers are available in an array |
 | FindSecondLargest.java       | Finds the second largest number in an array |
 | SumOfElements.java           | Calculates sum of all elements in an array |
+| leftRotateElements.java      | prints the as left rotated format |
+| leftRotateByKposition.java   | prints the array as left rotated format but from a specific index the user provide|
 
 ## How to Run
 
