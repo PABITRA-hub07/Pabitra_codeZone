@@ -8,7 +8,7 @@ These problems are useful for practice and interview preparation.
 | File Name                     | Description                          |
 |------------------------------|--------------------------------------|
 | ArrayCanBePalindrome.java    | Check if a array can be palindrome after removing atmost one element |
-| CheckPalindrome.java         | Check if a array is a palindrome or not    |
+| CheckPalindrome.java         | Check if a array is palindrome or not    |
 | CheckPalindromeBruteForce.java| Brute-force method for palindrome check in an array |
 | EvenOddCheck.java            | Program to check how many even or odd numbers are available in an array |
 | FindSecondLargest.java       | Finds the second largest number in an array |
