@@ -8,8 +8,8 @@ These problems are useful for practice and interview preparation.
 | File Name                     | Description                          |
 |------------------------------|--------------------------------------|
 | CheckPalindrome.java         | Check if a array is palindrome or not    |
-| ArrayCanBePalindrome.java    | Check if a array can be palindrome after removing atmost one element |
 | CheckPalindromeBruteForce.java| Brute-force method for palindrome check in an array |
+| ArrayCanBePalindrome.java    | Check if a array can be palindrome after removing atmost one element |
 | SumOfElements.java           | Calculates sum of all elements in an array |
 | EvenOddCheck.java            | Program to check how many even or odd numbers are available in an array |
 | FindSecondLargest.java       | Finds the second largest number in an array |
