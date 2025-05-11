@@ -16,6 +16,7 @@ These problems are useful for practice and interview preparation.
 | FindSecondLargest.java       | Finds the second largest number in an array |
 | leftRotateElements.java      | prints the as left rotated format |
 | leftRotateByKposition.java   | prints the array as left rotated format but from a specific index the user provide|
+| rightRotateByKposition.java  | prints the array as right rotated format but from a specific index the user provide|
 
 ## How to Run
 
