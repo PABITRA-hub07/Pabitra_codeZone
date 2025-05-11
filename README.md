@@ -39,7 +39,8 @@ java SumOfElements
 ## Author
 *Pabitra*  
 -Beginner in DSA and Java, aiming to master problem solving and software development.
--In my first code i did't explain the code but don't worry it is not that much hard to understand, you will easily manage it but in my future uploads i will definately explain.
+
+-In my first code i did't explain the code, but don't worry it is not that much hard to understand, you will easily manage it but in my future uploads i will definately explain.
 -Stay tuned for more such problems!!
 
 ---
