@@ -14,7 +14,7 @@ These problems are useful for practice and interview preparation.
 | CheckPalindromeBruteForce.java| Brute-force method for palindrome check in an array |
 | ArrayCanBePalindrome.java    | Check if a array can be palindrome after removing atmost one element |
 | FindSecondLargest.java       | Finds the second largest number in an array |
-| leftRotateElements.java      | prints the as left rotated format |
+| leftRotateElements.java      | prints as the left rotated format in an array |
 | leftRotateByKposition.java   | prints the array as left rotated format but from a specific index the user provide|
 | rightRotateByKposition.java  | prints the array as right rotated format but from a specific index the user provide|
 
