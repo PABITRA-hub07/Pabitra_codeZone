@@ -38,7 +38,7 @@ class leftRotateByKposition {
      for (int i = 0; i < element; i++) {
       array[i]=sc.nextInt();
      }
-     System.out.println("Enter the k-th position for rotation :");
+     System.out.println("Enter the k-th position for rotation :");//suppose k is 2
      int k=sc.nextInt();
      reversePosition(array, k); //calling the function
      sc.close();
